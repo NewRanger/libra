@@ -1,2 +1,2 @@
 # libra
-Library for different kind of javascript functions
+Library for different kind of javascript (nodejs) functions
