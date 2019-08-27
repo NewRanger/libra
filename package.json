@@ -1,0 +1,23 @@
+{
+  "name": "libra",
+  "version": "1.0.0",
+  "description": "Javascript (nodejs) usefull function library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewRanger/libra.git"
+  },
+  "author": "George Gogiashvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NewRanger/libra/issues"
+  },
+  "homepage": "https://github.com/NewRanger/libra#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
